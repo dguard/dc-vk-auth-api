@@ -43,11 +43,11 @@
 
 Update `.env` file  based on `.env.sample`
 
-The app uses parts of vk-auth-react-nestjs for authentication:
+The app uses parts of `vk-auth-react-nestjs` for authentication:
 
 https://github.com/ndrwbv/vk-auth-react-nestjs/tree/master/backend
 
-And the app uses skeletone of nestjs-typeorm:
+And the app uses skeletone of `nestjs-typeorm`:
 
 https://github.com/GauSim/nestjs-typeorm/tree/master/code
 
