@@ -44,9 +44,11 @@
 Update `.env` file  based on `.env.sample`
 
 The app uses parts of vk-auth-react-nestjs for authentication:
+
 https://github.com/ndrwbv/vk-auth-react-nestjs/tree/master/backend
 
 And the app uses skeletone of nestjs-typeorm:
+
 https://github.com/GauSim/nestjs-typeorm/tree/master/code
 
 Terminology
@@ -104,8 +106,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## Stay in touch
 
 - Contributor: [Alexander Serditov](https://cv.digitallyconstructed.ru/)
-- Uses parts from: [Andrew Boev](https://github.com/ndrwbv/vk-auth-react-nestjs/tree/master/frontend)
-- Uses parts from: [Simon Gausmann](https://github.com/GauSim/nestjs-typeorm/tree/master/code)
+- Uses parts from contributor: [Andrew Boev](https://github.com/ndrwbv/vk-auth-react-nestjs/tree/master/frontend)
+- Uses parts from contributor: [Simon Gausmann](https://github.com/GauSim/nestjs-typeorm/tree/master/code)
 
 
 ## License
