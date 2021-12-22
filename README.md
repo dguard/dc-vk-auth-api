@@ -30,7 +30,7 @@
 
 | Service | Repo |
 | --- | --- |
-| API 📦 | cis-api (you are inside) |
+| API 📦 | dc-vk-auth-api (you are inside) |
 | Frontend 📦 | [dc-vk-auth-react](https://github.com/dguard/dc-vk-auth-react) |
 
 ## Captures
